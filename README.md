@@ -1,6 +1,6 @@
-### PCTEAM HS 8 : Jeux en C++
+### PCTEAM HS 8 : Jeux en VB6
 
-Ce dépot contient les codes sources du Hors-Série PC Team n°8 daté de janvier 2001. Il s'agit de codes sources en Visual C++ permettant de créer des petits jeux en utilisant la version 6 de l'IDE de Microsoft. Chaque dossier est divisé en 2 sous-dossiers EVE et Source qui contiennent respectivement l'executable (pour jouer) et le code source (pour apprendre).
+Ce dépot contient les codes sources du Hors-Série PC Team n°8 daté de janvier 2001. Il s'agit de codes sources en Visual Basic permettant de créer des petits jeux en utilisant la version 6 de l'IDE de Microsoft. Chaque dossier est divisé en 2 sous-dossiers EVE et Source qui contiennent respectivement l'executable (pour jouer) et le code source (pour apprendre).
 
 ### Liste des jeux
 
